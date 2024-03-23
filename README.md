@@ -18,7 +18,7 @@ This project is a Quiz App built using React JS. It allows users to select a sub
 
 ## Screenshots
 
-![Subject Selection](screenshots/subject_selection.png)
+![Subject Selection](ScreenShots/medium-device-view.png)
 *Subject Selection Page*
 
 ![Quiz Question](screenshots/quiz_question.png)
