@@ -29,6 +29,12 @@ This project is a Quiz App built using React JS. It allows users to select a sub
 ![Results](screenshots/Score-Page-two-Option-Retake-Homepage.png)
 *Results Page*
 
+![Results](screenshots/Score-Page-two-Option-Retake-Homepage.png)
+*Medium-device-View*
+
+![Results](screenshots/Score-Page-two-Option-Retake-Homepage.png)
+*Large-device-View*
+
 ## Setup Instructions
 
 1. Clone the repository:
