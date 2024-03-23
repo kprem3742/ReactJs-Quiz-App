@@ -1,0 +1,86 @@
+export const data = [
+  {
+    question: "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+    option1: "32",
+    option2: "24",
+    option3: "64",
+    option4: "12",
+    ans: 1,
+  },
+  {
+    question:
+      "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    option1: "100 minutes",
+    option2: "5 minutes",
+    option3: "1 minute",
+    option4: "20 minutes",
+    ans: 3,
+  },
+  {
+    question:
+      "If a bike travels at a speed of 40 miles per hour, how far can it travel in 3 hours?",
+    option1: "120 miles",
+    option2: "80 miles",
+    option3: "1200 miles",
+    option4: "30 miles",
+    ans: 1,
+  },
+  {
+    question: "What is the missing number in the sequence: 3, 6, 12, 24, ___?",
+    option1: "48",
+    option2: "36",
+    option3: "18",
+    option4: "60",
+    ans: 1,
+  },
+  {
+    question: "If 6 bananas cost $2, how much would 15 bananas cost?",
+    option1: "$5",
+    option2: "$3",
+    option3: "$7.50",
+    option4: "$6",
+    ans: 3,
+  },
+  {
+    question: "If today is Wednesday, what day will it be in 12 days?",
+    option1: "Saturday",
+    option2: "Monday",
+    option3: "Thursday",
+    option4: "Sunday",
+    ans: 2,
+  },
+  {
+    question: "What is 20% of 150?",
+    option1: "15",
+    option2: "30",
+    option3: "50",
+    option4: "10",
+    ans: 2,
+  },
+  {
+    question:
+      "If a square has an area of 16 square units, what is the length of one side?",
+    option1: "4 units",
+    option2: "8 units",
+    option3: "2 units",
+    option4: "6 units",
+    ans: 1,
+  },
+  {
+    question: "What is the least common multiple of 8 and 12?",
+    option1: "24",
+    option2: "16",
+    option3: "32",
+    option4: "40",
+    ans: 1,
+  },
+  {
+    question:
+      "A train travels at a speed of 50 miles per hour. How far will it travel in 2.5 hours?",
+    option1: "125 miles",
+    option2: "100 miles",
+    option3: "75 miles",
+    option4: "50 miles",
+    ans: 3,
+  },
+];
