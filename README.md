@@ -21,12 +21,12 @@ This project is a Quiz App built using React JS. It allows users to select a sub
 ![Subject Selection](ScreenShots/HomePage.png)
 *Subject Selection Page*
 
-![Quiz Question](screenshots/java-mcqs-correct-ans.png)
+![Quiz Question](screenshots/Java-MCQS-Correct-Ans.png)
 *Quiz Question Page1*
-![Quiz Question](screenshots/java-mcqs-wrong-ans.png)
+![Quiz Question](screenshots/Java-MCQS-Wrong-Ans.png)
 *Quiz Question Page2*
 
-![Results](screenshots/score-page-two-option-retake-homepage.png)
+![Results](screenshots/Score-Page-two-Option-Retake-Homepage.png)
 *Results Page*
 
 ## Setup Instructions
