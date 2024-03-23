@@ -57,8 +57,9 @@ npm start
 
 ## Submission
 
-This project has been submitted as part of an assignment. For any inquiries or feedback, please contact the project owner.
+This project has been submitted as part of an assignment. 
 
 ---
 
-Thank you for your interest in the Quiz App project! If you have any further questions or need assistance, feel free to reach out.
+## LIVE DEMO
+Check out the live demo of the Quiz App hosted on https://reactjs-quizapp-prem.netlify.app
